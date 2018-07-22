@@ -2,4 +2,4 @@
 
 Estudando a biblioteca Seaborn para auxiliar na análise de dados.
 
-Tutorial utilizado para este estudo originalmente visto em [EliteDataSciente](https://elitedatascience.com/python-seaborn-tutorial).
+Tutorial utilizado para este estudo originalmente visto em [EliteDataScience](https://elitedatascience.com/python-seaborn-tutorial).
